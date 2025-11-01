@@ -1,5 +1,5 @@
 
-# 📝 Todo API (Express + MongoDB + Mongoose)
+# 📝 Todo API (React Query + Express + MongoDB + Mongoose )
 
 A simple and clean **RESTful API** built with **Express.js**, **MongoDB**, and **Mongoose** to perform CRUD operations on todo items. Additionally the **React Query** Support in the frontend
 
